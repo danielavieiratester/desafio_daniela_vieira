@@ -6,10 +6,15 @@ Este é um simples aplicativo web para adicionar amigos a uma lista e sortear al
 
 ## Funcionalidades
 
+- Informar que não foi inserido nome ao clicar no botão Adicionar
 - Adicionar amigos a uma lista
+- Informar repetição de nome já incluído
+- Informar quantidade insuficiente de pessoas na lista para realização do sorteio
 - Remover amigos da lista
 - Sortear um amigo aleatoriamente
 - Iniciar um novo sorteio
+  
+https://github.com/user-attachments/assets/c061aa4f-776f-4c12-a28f-451d31db8312
 
 ## Tecnologias Utilizadas
 
